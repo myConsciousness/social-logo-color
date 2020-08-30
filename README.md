@@ -24,7 +24,7 @@ Press the `Download ZIP` button in this repository or use the following `clone` 
 
 **_Clone_**
 
-```yaml
+```git
 git clone https://github.com/myConsciousness/sns-logo-color.git
 ```
 
@@ -40,7 +40,7 @@ git clone https://github.com/myConsciousness/sns-logo-color.git
 <i class="fab fa-github color-github"></i>
 ```
 
-## Class Names
+## Class Variation
 
 | SNS                | class name               |
 | ------------------ | ------------------------ |
