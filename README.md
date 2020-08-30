@@ -40,6 +40,19 @@ git clone https://github.com/myConsciousness/sns-logo-color.git
 <i class="fab fa-github color-github"></i>
 ```
 
+## Class Names
+
+| SNS                | class name               |
+| ------------------ | ------------------------ |
+| GitHub             | color-github             |
+| Instagram          | color-instagram          |
+| Twitter            | color-twitter            |
+| Google+            | color-google-plus        |
+| Pinterest          | color-pinterest          |
+| Snapchat           | color-snapchat           |
+| Facebook Messenger | color-facebook-messenger |
+| LinkedIn           | color-linkedin           |
+
 ## License
 
 ```
