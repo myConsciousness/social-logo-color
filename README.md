@@ -18,7 +18,7 @@ This color definition was created to apply to `Font Awesome` SVG images, but it 
 
 ## How To Use
 
-### 1. **_Download [CSS file](https://github.com/myConsciousness/social-logo-color/blob/master/social-logo-color.css)_**
+### 1. **_Download [CSS file](https://github.com/myConsciousness/social-logo-color/blob/master/src/org/thinkit/web/css/social-logo-color.css)_**
 
 Press the `Download ZIP` button in this repository or use the following `clone` command to download `social-logo-color.css`.
 
